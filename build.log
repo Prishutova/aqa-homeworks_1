@@ -1,0 +1,12 @@
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+> Task :compileTestJava UP-TO-DATE
+> Task :processTestResources NO-SOURCE
+> Task :testClasses UP-TO-DATE
+
+> Task :test FAILED
+
+Gradle suite > Gradle test > ru.netology.service.CashbackHackServiceTest > shouldReturnZeroIfAmountIsBoundary FAILED
+    java.lang.AssertionError at CashbackHackServiceTest.java:39
+3 actionable tasks: 1 executed, 2 up-to-date
